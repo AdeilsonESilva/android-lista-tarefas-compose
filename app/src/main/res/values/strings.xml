@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de Tarefas Compose</string>
+    <string name="task_list">Lista de Tarefas</string>
+    <string name="save_task">Salvar tarefa</string>
+</resources>
